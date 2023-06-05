@@ -24,6 +24,11 @@
     "qmk": {
             "tap_keycode_delay": 10
     },
+    "bootmagic": {
+        "enabled": true,
+        "matrix": [0, 0]
+
+    },
     "layouts": {
         "LAYOUT": {
             "layout": [
